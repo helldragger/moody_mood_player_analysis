@@ -1,0 +1,12 @@
+name: MoodyMoodPlayerAnalysis
+title: MoodyMoodPlayerAnalysis
+username:
+account: helldragger
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 681864
+bundleId: 1849735
+url: https://helldragger.shinyapps.io/MoodyMoodPlayerAnalysis/
+when: 1549001415.77759
+asMultiple: FALSE
+asStatic: FALSE
